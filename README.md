@@ -13,7 +13,7 @@ In this course, you will dive into the world of RLHF and its application in alig
 <img src="images/1_2.png" height="350"> 
 </p>
 
-2. 📊 **Datasets for RLHF Training**: Examine the "preference" and "prompt" datasets crucial for RLHF training.
+2. 📊 **Datasets for RLHF Training**: Examine the "preference" and "prompt" datasets crucial for RLHF training (本教程微调一个summary数据集).
 <p align="center">
 <img src="images/2_1.png" height="250"> 
 </p>
